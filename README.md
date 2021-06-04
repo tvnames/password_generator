@@ -1,13 +1,41 @@
-# password_generator
 
+![License](https://img.shields.io/badge/license-Apache2-blue)
 
-This is a password generator with several questions leading up to a random password generated within the code box. 
-It has prompts for lower case letters, upper case letters, symbols and numbers.
-It also has prompts letting the user know to be within the parameters set to get a code.
+# Password_Generator  
 
+## Table of Contents
+- [Description](#Description)
+- [Installation](#Install-Instructions)
+- [Usage](#Usage)
+- [Contribution](#Contribution-Guidelines)
+- [Testing](#Test-Instructions)
+- [License](#License)
+- [Questions](#Questions?-Contact-Me!)
 
+## Description
 
-https://github.com/tvnames/password_generator
-https://tvnames.github.io/password_generator
+This is a password generator with several questions leading up to a random password generated within the code box. It has prompts for lower case letters, upper case letters, symbols and numbers. It also has prompts letting the user know to be within the parameters set to produce the code  
+  
+## Install Instructions  
+node index.js  
 
-//tvnames.github.io_password_generator_png 
+## Usage  
+You can use this project to create random codes to use as passwords  
+
+## Licenses
+
+## Contribution Guidelines  
+  
+
+## Test Instructions  
+node index.js  
+
+## License 
+ Apache2
+
+## Questions? 
+github.com/tvnames/password_generator
+
+Get in touch!
+Find me on [Github!](https://github.com/undefined)
+
